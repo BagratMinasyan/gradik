@@ -1,0 +1,1 @@
+In the scope of this project i have implemented framework such as pytorch which covers computational graph creating, linear layer, activation layer, mini-batch gradient descent, l2 loss, cross entropy, node gradient calculating etc.
